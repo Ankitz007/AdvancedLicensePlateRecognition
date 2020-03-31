@@ -1,0 +1,6 @@
+*.pyc
+*.a
+*.so
+*.csv
+*~
+data/
