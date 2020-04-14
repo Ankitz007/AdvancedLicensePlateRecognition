@@ -78,13 +78,7 @@ We know that not everyone has an NVIDIA card available, and sometimes it is cumb
   - Expediting parking by eliminating the need for human confirmation of parking passes.
 
 
-## Credits
-
-This repository contains the Sergio M. Silva's implementation of ECCV 2018 paper "License Plate Detection and Recognition in Unconstrained Scenarios".
-
-* Paper webpage: http://sergiomsilva.com/pubs/alpr-unconstrained/
-
-If you use results produced by their code in any publication, please cite their paper:
+## Citation:
 
 ```
 @INPROCEEDINGS{silva2018a,
